@@ -27,3 +27,10 @@ As a user I would like to:
 * python3.6
 * pip
 * virtualenv
+
+
+### Cloning
+* In your terminal:
+        
+        $ git clone https://github.com/hukish/news-Highlights.git
+        $ cd news-Highlights
