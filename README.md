@@ -77,3 +77,5 @@ As a user I would like to:
    * Python3.6
    * Flask        
         
+## License
+MIT &copy;2020 [HUDSON]
