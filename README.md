@@ -66,4 +66,14 @@ As a user I would like to:
 
         $ chmod +x start.sh
         $ ./start.sh
+
+
+## Testing the Application
+* To run the tests for the class files:
+
+        $ python3.6 manage.py tests
+        
+## Technologies Used
+   * Python3.6
+   * Flask        
         
