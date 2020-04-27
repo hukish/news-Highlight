@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% import 'macros.html' as macro %}
+
+<!-- Styles Block -->
+
+
+<!-- BLOCK CONTENT -->
+{% block content %}
+<div class="container-fluid">
+
+    <div class="articles">
+     
+      
+        <ul class="unstyled">
+            <div>
+                {{ macro.displayArticlesList(articles) }}
+            </div>
+        </ul>
+    </div>
+</div>
+ {% endblock %}
